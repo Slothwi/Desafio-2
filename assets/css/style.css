@@ -1,0 +1,138 @@
+
+
+header {
+    margin-top: 0px;
+    height: 300px;
+    background-image: url(/assets/imgs/TWBANNER.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: right;
+    color: white;
+    text-align: left;
+    text-shadow: #fc0 1px 0 10px;
+}
+
+
+section {
+    margin: 500px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}   
+
+
+h1{
+    margin-left: 50px; 
+    margin-top: 0px;
+    padding: 0px;
+    font-size: 60px;
+}
+
+h2 {
+    margin-left: 50px;
+    margin-top: 50px;
+    padding: 0px;
+    font-size: 50px;
+    text-align: center;
+    color: white;
+
+}
+
+.thead {
+    text-align: left;
+    margin-top: 0px;
+    margin-left: 300px;
+}
+
+body { 
+    margin: 0px;
+    padding: 0px;  
+    text-align: center;
+    background-color: rgb(17, 17, 17);
+    color: rgb(148, 56, 56);
+
+}
+
+footer {
+    margin: 0px;
+    background-color: rgb(8, 8, 8);
+    text-align: center;
+    background-size: cover;
+    background-position: center;
+    
+
+}
+
+
+
+
+section img {
+    width: 400px;
+
+}
+section p {
+    text-align: center;
+}
+
+
+
+.kissland1 {
+    color: green;
+    font-size: 50px;
+
+}
+
+.kissland2 {
+    color: rgb(13, 107, 13);
+    font-size: 18px;
+    margin: 0px;
+    padding: 0px;
+}
+
+.BBTM1 {
+    color: gray;
+    font-size: 50px;
+}
+
+.BBTM2 {
+    color: rgb(90, 90, 90);
+    font-size: 18px;
+}
+
+.starboy1 {
+    color: #fc0;
+    font-size: 50px;
+}
+
+
+.starboy2 {
+    color: rgb(173, 146, 36);
+    font-size: 15px;
+
+}
+
+.afterh1 {
+    color: crimson;
+    font-size: 50px;
+}
+
+.afterh2 {
+    color: rgb(90, 27, 39);
+    font-size: 18px;
+
+}
+
+.dawnfm1 {
+    color: cadetblue;
+    font-size: 50px;
+}
+
+.dawnfm2 {
+    color: rgb(84, 116, 117);
+    font-size: 16px;
+}
+
+
+
+
+
+
